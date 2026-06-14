@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabhat-coder77&label=Profile%20views&color=0e75b6&style=flat" alt="prabhat-coder77" /> </p>
 
-- 🔭 I’m currently working on [HealthCare Management System – A scalable backend system with role-based access](https://github.com/Prabhat-coder77/doctor-appointment-system)
+- 🔭 I’m currently working on [Enterprise Resource Scheduling & Orchestration 
+System Domain: Healthcare Resource Management. A scalable backend system with role-based access](https://github.com/Prabhat-coder77/doctor-appointment-system)
 
 - 🌱 I’m currently learning **Advanced Backend & Cloud-Native Architecture**
 
